@@ -1,0 +1,41 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  height: fit-content;
+  width: 32rem;
+  background-color: #1a1b21;
+  text-align: center;
+  border-radius: 10px 10px 0 0;
+}
+
+img {
+  width: 32rem;
+}
+h1 {
+  font-size: 2.4rem;
+  line-height: 30px;
+  color: #fff;
+}
+
+h2 {
+  font-size: 1.4rem;
+  color: #f3bf99;
+}
+
+address {
+  font-size: 1rem;
+  color: #f3bf99;
+}
+
+.main-info {
+  margin: 2rem auto;
+}
+
+.btn_container {
+  max-width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.btn_linkedin {
+}
