@@ -34,8 +34,17 @@ address {
 .btn_container {
   max-width: 100%;
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
+  gap: 1.7rem;
 }
-
+.btn {
+  width: 11.5rem;
+  padding: 0.9rem 1.3rem;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+  border-radius: 0.6rem;
+  border: none;
+}
 .btn_linkedin {
+  background-color: #5093e2;
+  color: #fff;
 }
