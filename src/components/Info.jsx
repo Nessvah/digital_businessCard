@@ -12,7 +12,7 @@ function Info() {
       <img src="/profile-pic.png" alt="picture of Sílvia Vanessa" srcset="" />
       <div className="main-info">
         <h1>Sílvia Vanessa</h1>
-        <h2>Frontend Developer</h2>
+        <h3>Frontend Developer</h3>
         <address>www.silviavanessa.dev</address>
       </div>
 
