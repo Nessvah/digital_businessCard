@@ -26,6 +26,7 @@ address {
   display: flex;
   justify-content: center;
   gap: 4rem;
+  margin-bottom: 2rem;
 }
 .btn {
   width: 11.5rem;
