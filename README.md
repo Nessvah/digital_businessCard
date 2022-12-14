@@ -54,3 +54,7 @@ If you wanna build it for production use this commands:
 - [ ] include meta data and favicon
 
 ## License: 
+
+MIT License
+
+Copyright (c) 2022 Sílvia Vanessa
