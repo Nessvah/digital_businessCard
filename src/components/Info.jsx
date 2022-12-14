@@ -17,8 +17,17 @@ function Info() {
       </div>
 
       <div className="btn_container">
-        <button className="btn ">{emailIcon} Email</button>
-        <button className="btn btn_linkedin"> {linkedinIcon} Linkedin</button>
+        <a href="mailto:info@silviavanessa.dev" className="info--link">
+          {" "}
+          {emailIcon} Email
+        </a>
+        <a
+          href="https://twitter.com/nessvah_"
+          className="info--link info--link__blue"
+        >
+          {" "}
+          {linkedinIcon} Linkedin
+        </a>
       </div>
     </header>
   );
